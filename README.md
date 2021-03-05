@@ -4,3 +4,5 @@
 
 [LIMPIEZA DE  DATOS](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Ej_Limpieza_04.ipynb)
 
+[AVANCES PIA](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Avance1_PIA_04%20.ipynb)
+
