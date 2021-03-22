@@ -7,4 +7,4 @@
 [AVANCES PIA](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Avance1_PIA_04%20.ipynb)
 
 ## FASE 2
-[PRESENTACION REGRESION BAYESIANA EQUIPO 2]https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf
+[PRESENTACION REGRESION BAYESIANA EQUIPO 2](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
