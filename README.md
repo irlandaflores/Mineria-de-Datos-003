@@ -8,5 +8,7 @@
 
 ## FASE 2
 [PRESENTACION REGRESION BAYESIANA EQUIPO 2](https://github.com/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Presentaci%C3%B3n_Regresi%C3%B3n%20Bayesiana_04.pdf)
+
 [EJEMPLO REGRESION BAYESIANA R](https://github.com/SahoriRamirez/MineriaDeDatos/blob/c3c46aeccf98651e74613947e338c28346de0355/Archivos/EJ_REGRESION_LINEAL_BAYESIANA_04.R)
+
 
