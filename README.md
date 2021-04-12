@@ -15,6 +15,7 @@
 
 
 
-(SEGUNDO AVANCE DEL PIA)_(https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
+[SEGUNDO AVANCE DEL PIA](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
 [BASE DE DATOS PRINCIPAL](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
+[BASE DE DATOS SECUNDARIA](https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
 
