@@ -13,3 +13,10 @@
 
 [CALIFICACIONES KAHOOT](https://github.com/SahoriRamirez/MineriaDeDatos/blob/c3c46aeccf98651e74613947e338c28346de0355/Archivos/Calificaci%C3%B3n_Regresi%C3%B3n%20Bayesiana%20_Equipo04.pdf)
 
+
+
+(SEGUNDO AVANCE DEL PIA)(https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/AvancePIA_II_003_04.ipynb)
+(BASE DE DATOS PRINCIPAL)(https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Visualizaci%C3%B3n_04_Principal.ipynb)
+(BASE DE DATOS SECUNDARIA)(https://nbviewer.jupyter.org/github/SahoriRamirez/MineriaDeDatos/blob/main/Archivos/Vializaci%C3%B3n_04_Secundaria.ipynb)
+
+
